@@ -12,5 +12,6 @@ package com.mycompany.lat5;
 public class meet {
     public static void main(String[] args) {
         System.out.println("Hello");
+        System.out.println("Azzura");
     }
 }
