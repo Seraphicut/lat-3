@@ -3,7 +3,7 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-package com.mycompany.lat5;
+package ASIALATIHAN;
 
 import java.util.Scanner;
 
@@ -11,8 +11,8 @@ import java.util.Scanner;
  *
  * @author A-27
  */
-public class meet {
-   public static void main(String[] args) {
+public class BAB2 {
+    public static void main(String[] args) {
     // Deklarasi variabel
     char huruf;
     boolean isMasihBelajar;
